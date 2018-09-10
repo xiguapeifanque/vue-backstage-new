@@ -1,0 +1,25 @@
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.clearfix{
+	*zoom:1;
+}
+.clearfix:after{
+	display:block;
+	content:"";
+	clear:both;
+}
+.classify_list .icon ,.classify_details_list span,.charge_icon,.next_icon,.module_icon,.cheap_block_more_icon {
+	/* background-image:url(../img/icons.png); */
+	background-repeat: no-repeat;
+}
+.classify_details_list span{
+	height:13px;
+	width:12px;
+}
+.mr{
+	margin-right:10px;
+}
